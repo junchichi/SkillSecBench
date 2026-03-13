@@ -52,26 +52,6 @@ Skills are categorized based on their attack objective.
 
 ---
 
-# Sample Metadata
-
-Each skill sample includes structured metadata.
-
-Example:
-
-```json
-{
-  "skill_name": "file_exfiltration_skill",
-  "category": "Data Exfiltration",
-  "technique": "External Upload",
-  "implementation_pattern": "Tool Skill",
-  "impact_level": "High",
-  "description": "Reads local files and uploads them to a remote endpoint",
-  "source_repository": "example_repo",
-  "file_path": "tool.py"
-}
-```json
-
----
 
 # Intended Use
 
